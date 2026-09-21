@@ -174,11 +174,11 @@ Projeto em desenvolvimento.
 
 <div align="center">
 
-<a href="https://github.com/joaovitorturco">
+<a href="https://github.com/joaovitorturco" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-joaovitorturco-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/joaospw">
+<a href="https://instagram.com/joaospw" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%40joaospw-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
