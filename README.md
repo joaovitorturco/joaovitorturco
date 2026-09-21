@@ -59,7 +59,7 @@ Projeto em desenvolvimento.
 
 <br>
 
-<a href="(https://joaovitorturco.github.io/Calculadora/Calculadora/)">
+<a href="[#](https://joaovitorturco.github.io/Calculadora/Calculadora/)">
 <img src="https://img.shields.io/badge/VER%20PROJETO-0066FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
