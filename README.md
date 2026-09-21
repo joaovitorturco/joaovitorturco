@@ -122,9 +122,9 @@ Projeto em desenvolvimento.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&border_color=0066FF&title_color=3B82F6&icon_color=3B82F6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorturco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&border_color=0066FF&title_color=3B82F6&icon_color=3B82F6"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=false&border_color=0066FF&title_color=3B82F6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorturco&layout=compact&langs_count=8&theme=github_dark&hide_border=false&border_color=0066FF&title_color=3B82F6"/>
 
 </div>
 
@@ -134,7 +134,7 @@ Projeto em desenvolvimento.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark&hide_border=false&border=0066FF&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
+<img src="https://streak-stats.demolab.com?user=joaovitorturco&theme=dark&hide_border=false&border=0066FF&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
 
 </div>
 
@@ -144,7 +144,7 @@ Projeto em desenvolvimento.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0D1117&color=3B82F6&line=0066FF&point=FFFFFF&area=true&hide_border=false&custom_title=Minha%20atividade%20no%20GitHub" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovitorturco&bg_color=0D1117&color=3B82F6&line=0066FF&point=FFFFFF&area=true&hide_border=false&custom_title=Minha%20atividade%20no%20GitHub" width="95%"/>
 
 </div>
 
@@ -154,7 +154,7 @@ Projeto em desenvolvimento.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=joaovitorturco&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -164,7 +164,7 @@ Projeto em desenvolvimento.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution"/>
+<img src="https://raw.githubusercontent.com/joaovitorturco/joaovitorturco/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution"/>
 
 </div>
 
@@ -174,8 +174,8 @@ Projeto em desenvolvimento.
 
 <div align="center">
 
-<a href="https://github.com/SEU_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-SEU_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/joaovitorturco">
+<img src="https://img.shields.io/badge/GitHub-joaovitorturco-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/joaospw">
