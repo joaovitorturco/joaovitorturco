@@ -1,98 +1,199 @@
 <div align="center">
 
-# 👋 João Vitor
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066FF&height=180&section=header&text=João%20Vitor&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### `Estudante de Tecnologia`
+# João Vitor
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudante+de+Tecnologia;Desenvolvimento+Web;Desenvolvimento+Mobile;Sempre+aprendendo+algo+novo" alt="Typing Animation" />
+### Estudante de Tecnologia 💻
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2563EB&height=180&section=header&text=João%20Vitor&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Estudante+de+Tecnologia;Desenvolvimento+Web;Desenvolvimento+Mobile;JavaScript+Developer;Sempre+aprendendo+algo+novo" alt="Typing Animation"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou **João Vitor**, estudante de tecnologia com interesse em desenvolvimento de aplicações web e mobile.
+Olá! Eu sou **João Vitor**, estudante de tecnologia.
 
-Atualmente estudo e desenvolvo projetos utilizando tecnologias como **JavaScript, Node.js, Vue.js, React e React Native**, além dos fundamentos de **HTML e CSS**.
+Tenho interesse em desenvolvimento de aplicações **Web e Mobile** e venho estudando e desenvolvendo projetos utilizando diferentes tecnologias do ecossistema JavaScript.
 
-Gosto de aprender colocando a mão no código, criando projetos e explorando novas tecnologias.
+Atualmente trabalho com:
 
-```js
-const joaoVitor = {
-    area: "Tecnologia",
-    foco: ["Web", "Mobile"],
-    tecnologias: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Node.js",
-        "Vue.js",
-        "React",
-        "React Native"
-    ]
-};
-🛠️ Tecnologias
+- 🌐 Desenvolvimento Web
+- 📱 Desenvolvimento Mobile
+- ⚡ JavaScript
+- 🖥️ Desenvolvimento Front-end
+- 🔧 Desenvolvimento Back-end
+
+Meu objetivo é continuar evoluindo como desenvolvedor através de estudos, projetos e experiências práticas.
+
+---
+
+## 🛠️ Tecnologias
+
 <div align="center">
-Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,react" />
-Back-end & Mobile
-<img src="https://skillicons.dev/icons?i=nodejs,react" />
-Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /> </div>
-🚀 Projetos
-<div align="center"> <table> <tr> <td width="50%" align="center">
-📌 Projeto 01
 
-Adicione aqui um dos seus projetos.
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vue,react" />
 
-<a href="#"> <img src="https://img.shields.io/badge/VER%20PROJETO-2563EB?style=for-the-badge&logo=github&logoColor=white"> </a> </td> <td width="50%" align="center">
-📌 Projeto 02
+<br><br>
 
-Adicione aqui um dos seus projetos.
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<a href="#"> <img src="https://img.shields.io/badge/VER%20PROJETO-2563EB?style=for-the-badge&logo=github&logoColor=white"> </a> </td> </tr> <tr> <td width="50%" align="center">
-📌 Projeto 03
+</div>
 
-Adicione aqui um dos seus projetos.
+---
 
-<a href="#"> <img src="https://img.shields.io/badge/VER%20PROJETO-2563EB?style=for-the-badge&logo=github&logoColor=white"> </a> </td> <td width="50%" align="center">
-📌 Projeto 04
+## 🚀 Projetos
 
-Adicione aqui um dos seus projetos.
+<div align="center">
 
-<a href="#"> <img src="https://img.shields.io/badge/VER%20PROJETO-2563EB?style=for-the-badge&logo=github&logoColor=white"> </a> </td> </tr> </table> </div>
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitor&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=2563EB&title_color=3B82F6&icon_color=3B82F6" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor&layout=compact&langs_count=8&theme=github_dark&border_color=2563EB&title_color=3B82F6" /> </div>
+<table>
+<tr>
 
-Importante: substitua joaovitor pelo seu username exato do GitHub caso ele seja diferente.
+<td width="50%" align="center">
 
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=joaovitor&theme=dark&hide_border=false&border=2563EB&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" /> </div>
-📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovitor&bg_color=0D1117&color=3B82F6&line=2563EB&point=FFFFFF&area=true&hide_border=false&custom_title=Minha%20atividade%20no%20GitHub" width="95%" /> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=joaovitor&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" /> </div>
-🐍 Snake Contribution
-<div align="center"> <img src="https://raw.githubusercontent.com/joaovitor/joaovitor/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
-🌐 Redes sociais
-<div align="center"> <a href="https://instagram.com/joaospw"> <img src="https://img.shields.io/badge/Instagram-%40joaospw-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/joaovitor"> <img src="https://img.shields.io/badge/GitHub-João%20Vitor-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+### 📱 Projeto 01
 
-<!--
-**joaovitorturco/joaovitorturco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projeto em desenvolvimento.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0066FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌐 Projeto 02
+
+Projeto em desenvolvimento.
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0066FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### ⚡ Projeto 03
+
+Projeto em desenvolvimento.
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0066FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 💻 Projeto 04
+
+Projeto em desenvolvimento.
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0066FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&border_color=0066FF&title_color=3B82F6&icon_color=3B82F6"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=false&border_color=0066FF&title_color=3B82F6"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark&hide_border=false&border=0066FF&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0D1117&color=3B82F6&line=0066FF&point=FFFFFF&area=true&hide_border=false&custom_title=Minha%20atividade%20no%20GitHub" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+## 🐍 Snake Contribution
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution"/>
+
+</div>
+
+---
+
+## 🌐 Redes sociais
+
+<div align="center">
+
+<a href="https://github.com/SEU_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-SEU_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/joaospw">
+<img src="https://img.shields.io/badge/Instagram-%40joaospw-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+### `Code. Learn. Build. Repeat.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:000000&height=120&section=footer" width="100%"/>
+
+</div>
